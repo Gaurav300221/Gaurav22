@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)]()
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align=“right” alt=“coding” width="400" src="(https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)“>
+<img align=“right” alt=“coding” width="400" src="(https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)“>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav300221&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav300221" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav300221" alt="gaurav300221" /></a> </p>
